@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nftpreviewcardcomponent-using-mobile-first-workflow-and-css-flexbox-c1moN69UI)
-- Live Site URL: [live site URL](https://sanketcharanpahadi.github.io/nft-preview-card-component/)
+- Solution URL: [(https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nftpreviewcardcomponent-using-mobile-first-workflow-and-css-flexbox-c1moN69UI](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nftpreviewcardcomponent-using-mobile-first-workflow-and-css-flexbox-c1moN69UI)
+- Live Site URL: [https://sanketcharanpahadi.github.io/nft-preview-card-component/](https://sanketcharanpahadi.github.io/nft-preview-card-component/)
 
 ## My process
 
