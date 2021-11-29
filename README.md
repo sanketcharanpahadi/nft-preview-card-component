@@ -66,7 +66,7 @@ const proudOfThisFunc = () => {
 
 ### Continued development
 
-I want to continue learning mobile first workflow and responsiveness.
+I want to continue learning mobile first workflow and improving my css.
 
 
 ## Author
